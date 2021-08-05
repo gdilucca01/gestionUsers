@@ -1,8 +1,10 @@
 
 public class Utilisateur {
 	
-	private String nomfaux;
+	private String nom;
 	private String prenom;
+	private int age;
+	
 	public Utilisateur() {
 		super();
 	}
